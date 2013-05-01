@@ -1,23 +1,25 @@
-Polska paczka jêzykowa esoTalk
+Polska paczka jï¿½zykowa esoTalk
 esoTalk 1.0.0g2
 
-Wszelkie b³êdy (ortograficzne, znaczeniowe) proszê zg³aszaæ na stronie www.tomaszgasior.kao.pl/kontakt.
+Wszelkie bï¿½ï¿½dy (ortograficzne, znaczeniowe) proszï¿½ zgï¿½aszaï¿½ na stronie www.tomaszgasior.kao.pl/kontakt.
 
-Jak zainstalowaæ paczkê jêzykow¹? Szczegó³owy opis.
+Jak zainstalowaï¿½ paczkï¿½ jï¿½zykowï¿½? Szczegï¿½owy opis.
 
-> Jeœli esoTalk jeszcze nie jest zainstalowane:
-   1. Umieszczony w archiwum ZIP folder „Polish” przenieœ do folderu „languages”.
-   2. Otwórz w edytorze tekstowym plik config.defaults.php.
-   3. ZnajdŸ w nim wiersz $config["esoTalk.language"] = "English"; (oko³o 56 wiersza) i zamieñ „English” na „Polish” zachowuj¹c dotychczasowe cudzys³owy.
-   4. Instalator esoTalk bêdzie porozumiewaæ siê z tob¹ w jêzyku polskim.
+> Jeï¿½li esoTalk jeszcze nie jest zainstalowane:
+   1. Umieszczony w archiwum ZIP folder ï¿½Polishï¿½ przenieï¿½ do folderu ï¿½languagesï¿½.
+   2. Otwï¿½rz w edytorze tekstowym plik config.defaults.php.
+   3. Znajdï¿½ w nim wiersz $config["esoTalk.language"] = "English"; (okoï¿½o 56 wiersza) i zamieï¿½ ï¿½Englishï¿½ na ï¿½Polishï¿½ zachowujï¿½c dotychczasowe cudzysï¿½owy.
+   4. Instalator esoTalk bï¿½dzie porozumiewaï¿½ siï¿½ z tobï¿½ w jï¿½zyku polskim.
 
-> Jeœli esoTalk jest ju¿ zainstalowane:
-   1. Umieszczony w archiwum ZIP folder „Polish” przenieœ do folderu „languages”.
-   2. Zaloguj siê na konto administratora.
-   3. PrzejdŸ do panelu administracyjnego – link „Administration” na górze.
-   4. PrzejdŸ do ustawieñ forum – „Forum Settings” po lewej.
-   5. W sekcji wyboru jêzyka „Default forum language” z listy wybierz „Polski” i zapisz zmiany przyciskiem „Save Changes”.
-   6. Forum bêdzie dzia³aæ w jêzyku polskim.
+> Jeï¿½li esoTalk jest juï¿½ zainstalowane:
+   1. Umieszczony w archiwum ZIP folder ï¿½Polishï¿½ przenieï¿½ do folderu ï¿½languagesï¿½.
+   2. Zaloguj siï¿½ na konto administratora.
+   3. Przejdï¿½ do panelu administracyjnego ï¿½ link ï¿½Administrationï¿½ na gï¿½rze.
+   4. Przejdï¿½ do ustawieï¿½ forum ï¿½ ï¿½Forum Settingsï¿½ po lewej.
+   5. W sekcji wyboru jï¿½zyka ï¿½Default forum languageï¿½ z listy wybierz ï¿½Polskiï¿½ i zapisz zmiany przyciskiem ï¿½Save Changesï¿½.
+   6. Forum bï¿½dzie dziaï¿½aï¿½ w jï¿½zyku polskim.
 
 -------------------------------
 01 lutego 2012 r.
+
+llaalswdwdwjdk dkwh dwdÃ³Ã³Ã³Å¼
