@@ -1,0 +1,23 @@
+Polska paczka jêzykowa esoTalk
+esoTalk 1.0.0g2
+
+Wszelkie b³êdy (ortograficzne, znaczeniowe) proszê zg³aszaæ na stronie www.tomaszgasior.kao.pl/kontakt.
+
+Jak zainstalowaæ paczkê jêzykow¹? Szczegó³owy opis.
+
+> Jeœli esoTalk jeszcze nie jest zainstalowane:
+   1. Umieszczony w archiwum ZIP folder „Polish” przenieœ do folderu „languages”.
+   2. Otwórz w edytorze tekstowym plik config.defaults.php.
+   3. ZnajdŸ w nim wiersz $config["esoTalk.language"] = "English"; (oko³o 56 wiersza) i zamieñ „English” na „Polish” zachowuj¹c dotychczasowe cudzys³owy.
+   4. Instalator esoTalk bêdzie porozumiewaæ siê z tob¹ w jêzyku polskim.
+
+> Jeœli esoTalk jest ju¿ zainstalowane:
+   1. Umieszczony w archiwum ZIP folder „Polish” przenieœ do folderu „languages”.
+   2. Zaloguj siê na konto administratora.
+   3. PrzejdŸ do panelu administracyjnego – link „Administration” na górze.
+   4. PrzejdŸ do ustawieñ forum – „Forum Settings” po lewej.
+   5. W sekcji wyboru jêzyka „Default forum language” z listy wybierz „Polski” i zapisz zmiany przyciskiem „Save Changes”.
+   6. Forum bêdzie dzia³aæ w jêzyku polskim.
+
+-------------------------------
+01 lutego 2012 r.
